@@ -1,0 +1,11 @@
+{
+  "name": "permission-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:g-anwuli/permission-system.git",
+  "author": "Godswill Anwuli <godswillanwuli@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}

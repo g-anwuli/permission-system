@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": false,
+    "baseUrl": "/",
+    "rootDir": "src",
+    "outDir": "out"
+  },
+  "include": ["src/**/*"]
+}
